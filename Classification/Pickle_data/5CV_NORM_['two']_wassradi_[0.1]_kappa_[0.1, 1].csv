@@ -1,0 +1,7 @@
+,Split_1,Split_2,Split_3,Split_4,Split_5,wasserstein_radi,NORM,kappa
+DRSVM_withoutSupport,0.05,0.0,0.05,0.0,0.04999999999999999,0.1,two,0.1
+RegularisedSVM_withoutSupport,0.0,0.0,0.0,0.0,0.04999999999999999,0.1,two,0.1
+Classical_SVM,0.0,0.05,0.0,0.0,0.04999999999999999,0.1,two,0.1
+DRSVM_withoutSupport,0.05,0.0,0.0,0.0,0.0,0.1,two,1.0
+RegularisedSVM_withoutSupport,0.0,0.0,0.0,0.04999999999999999,0.0,0.1,two,1.0
+Classical_SVM,0.05,0.0,0.0,0.04999999999999999,0.0,0.1,two,1.0
